@@ -1,0 +1,15 @@
+.pp {
+    background: center / cover url('pp.jpg');
+    border-radius: 50%;
+    height: 64px;
+    width: 64px;
+    border: solid black 2px;
+}
+
+.statue {
+    background-color: lawngreen;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    border: solid black 2px;
+}
