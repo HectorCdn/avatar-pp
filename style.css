@@ -1,4 +1,5 @@
 .pp {
+    position: relative;
     background: center / cover url('pp.jpg');
     border-radius: 50%;
     height: 64px;
@@ -7,9 +8,12 @@
 }
 
 .statue {
+    position: absolute;
     background-color: lawngreen;
     height: 16px;
     width: 16px;
     border-radius: 50%;
     border: solid black 2px;
+    right: 0px;
+    bottom: 0px;
 }
